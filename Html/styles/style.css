@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(0, 225, 255);
+}
+/* background-color: #bbff100
+rgb(255,255,255)
+rgba(255,255,255,0.5) */
+ul li{
+    display: inline
+}
+#title2{
+    border: 2px solid red;
+    width: 500px;
+    height: 100vh;
+   }
